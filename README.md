@@ -28,11 +28,13 @@ Press 3 Time E or R key to create a Combo.
 ## Rules
 
 * Score a point
+
 If knock out the enemy before 60 seconds, you score 1 point.
 
 If enemy knock you out before 60 seconds, enemy score 1 point.
 
 * Win/Lose conditions
+
 If you score 3 points, you win. If enemy score 3 points, you lose.
 
 ## Technologies
